@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fitst-ecom/static/css/main.b4f99165.css",
+    "main.js": "/fitst-ecom/static/js/main.1fa107b1.js",
+    "static/js/453.ed3810f9.chunk.js": "/fitst-ecom/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/fitst-ecom/index.html",
+    "main.b4f99165.css.map": "/fitst-ecom/static/css/main.b4f99165.css.map",
+    "main.1fa107b1.js.map": "/fitst-ecom/static/js/main.1fa107b1.js.map",
+    "453.ed3810f9.chunk.js.map": "/fitst-ecom/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4f99165.css",
+    "static/js/main.1fa107b1.js"
+  ]
+}
