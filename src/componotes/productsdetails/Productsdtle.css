@@ -1,0 +1,53 @@
+.prdtcsdtlscntiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.prdctimg{
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    margin-right: 20px;
+}
+.prodtinfo{
+   flex: 1;
+}
+
+.prdcttitile{
+    font: size 24px;;
+    font-weight: bold;
+}
+.prdctdescrib{
+    font-size: 16px;
+    margin-top: 10px;
+
+}
+.prdctprice{
+ font-size: 24px;
+ font-weight: bold;
+ color: red;
+}
+
+.addcart{
+    display: block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: blue;
+    color: aliceblue;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+}
+
+.gobck{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
